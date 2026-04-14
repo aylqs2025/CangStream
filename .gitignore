@@ -1,0 +1,16 @@
+target/
+*.bak
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cangjie build artifacts
+*.o
+*.a

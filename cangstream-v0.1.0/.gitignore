@@ -1,0 +1,24 @@
+# 构建产物
+/target/
+/.cache/
+cjpm.lock
+
+# 测试生成的文件
+test_config.json
+app_config.json
+*.tmp
+
+# IDE / Editor
+.vscode/
+.arts/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# legacy 备份
+*.cj.bak
+main_demo.cj.bak

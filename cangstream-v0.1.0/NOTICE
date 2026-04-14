@@ -1,0 +1,30 @@
+CangStream Framework
+Copyright 2025 Li Qingsheng
+
+Licensed under the Apache License, Version 2.0.
+See LICENSE file for the full license text.
+
+================================================================================
+ Attribution
+================================================================================
+
+This product includes software developed at:
+
+    Zhejiang Media College Tongxiang Research Institute Co., Ltd. (Wuzhen)
+    浙江传媒学院桐乡研究院有限公司（乌镇）
+
+The author gratefully acknowledges the research facilities, computing
+environment, and collaborative support provided by the institute during
+the development of CangStream.
+
+================================================================================
+ Third-party Dependencies
+================================================================================
+
+CangStream depends solely on the Cangjie standard library (std) and
+Cangjie extended standard library (stdx), provided by Huawei Technologies
+Co., Ltd. under their respective licenses. No other third-party libraries
+are bundled with this framework.
+
+For details on Cangjie licensing, please refer to:
+https://cangjie-lang.cn

@@ -1,0 +1,22 @@
+[package]
+  cjc-version = "1.0.1"
+  name = "cangstream"
+  description = "CangStream - 仓颉 Web 框架 + AI Agent 基础设施 (v1.2)"
+  version = "1.2.0"
+  target-dir = ""
+  src-dir = "src"
+  output-type = "executable"
+  compile-option = ""
+  override-compile-option = ""
+  link-option = ""
+  package-configuration = {}
+
+  [target.x86_64-w64-mingw32]
+  [target.x86_64-w64-mingw32.bin-dependencies]
+  path-option = ["D:\\cangjie-stdx-windows-x64-1.0.1.1\\windows_x86_64_llvm\\dynamic\\stdx"]
+
+  [target.x86_64-unknown-linux-gnu]
+  [target.x86_64-unknown-linux-gnu.bin-dependencies]
+  path-option = ["/opt/cangjie/cangjie-stdx/linux_x86_64_llvm/dynamic/stdx"]
+
+[dependencies]
